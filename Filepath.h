@@ -6,7 +6,7 @@ LPCWSTR videoPath = L"C:\\jakewashere\\bird.mp4";
 //Path for Credit card wav once it's downloaded
 LPCWSTR CreditCard = L"C:\\jakewashere\\CreditCard.wav";
 
-//Fubak VLC path after install
+//Final VLC path after install
 LPCWSTR vlcPath = L"C:\\Program Files\\VideoLAN\\VLC\\vlc.exe";
 
 //Rootpath for files
